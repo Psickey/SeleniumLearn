@@ -11,11 +11,10 @@ Using **PageObject** pattern + **DriverFactory** + **PropertyReader**.
 * TestNG
 ____________
 ## Covered
-+ 
-
-## To Cover
 + [Dynamic ID](http://uitestingplayground.com/dynamicid)
 + [AJAX Data](http://uitestingplayground.com/ajax)
+
+## To Cover
 + [Scrollbars](http://uitestingplayground.com/scrollbars)
 + [Visibility](http://uitestingplayground.com/visibility)
 + [Class Attribute](http://uitestingplayground.com/classattr)
