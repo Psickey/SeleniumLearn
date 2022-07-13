@@ -13,10 +13,10 @@ ____________
 ## Covered
 + [Dynamic ID](http://uitestingplayground.com/dynamicid)
 + [AJAX Data](http://uitestingplayground.com/ajax)
-
-## To Cover
 + [Scrollbars](http://uitestingplayground.com/scrollbars)
 + [Visibility](http://uitestingplayground.com/visibility)
+
+## To Cover
 + [Class Attribute](http://uitestingplayground.com/classattr)
 + [Client Side Delay](http://uitestingplayground.com/clientdelay)
 + [Dynamic Table](http://uitestingplayground.com/dynamictable)

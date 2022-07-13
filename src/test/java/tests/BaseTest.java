@@ -1,6 +1,7 @@
 package tests;
 
 import org.openqa.selenium.WebDriver;
+import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import utils.DriverFactory;
 import utils.PropertyReader;
@@ -20,8 +21,8 @@ public abstract class BaseTest {
         System.out.println(driver.getTitle() + " page has been opened");
     }
 
-//    @AfterMethod
-//    public void tearDown() {
-//        driver.quit();
-//    }
+    @AfterClass
+    public void tearDown() {
+        driver.quit();
+    }
 }
