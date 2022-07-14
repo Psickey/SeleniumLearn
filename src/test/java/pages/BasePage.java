@@ -29,4 +29,13 @@ public class BasePage {
 
     @FindBy(linkText = "Class Attribute")
     protected WebElement ClassAttr;
+
+    @FindBy(linkText = "Client Side Delay")
+    protected WebElement SideDelay;
+
+    @FindBy(linkText = "Dynamic Table")
+    protected WebElement DynamicTable;
+
+    @FindBy(linkText = "Sample App")
+    protected WebElement SampleApp;
 }
