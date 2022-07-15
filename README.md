@@ -15,12 +15,12 @@ ____________
 + [AJAX Data](http://uitestingplayground.com/ajax)
 + [Scrollbars](http://uitestingplayground.com/scrollbars)
 + [Visibility](http://uitestingplayground.com/visibility)
-+ + [Class Attribute](http://uitestingplayground.com/classattr)
++ [Class Attribute](http://uitestingplayground.com/classattr)
 + [Client Side Delay](http://uitestingplayground.com/clientdelay)
 + [Dynamic Table](http://uitestingplayground.com/dynamictable)
++ [Sample App](http://uitestingplayground.com/sampleapp)
 
 ## To Cover
-+ [Sample App](http://uitestingplayground.com/sampleapp)
 + [Hidden Layers](http://uitestingplayground.com/hiddenlayers)
 + [Click](http://uitestingplayground.com/click)
 + [Verify Text](http://uitestingplayground.com/verifytext)

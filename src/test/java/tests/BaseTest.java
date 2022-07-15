@@ -14,6 +14,8 @@ public abstract class BaseTest {
         return driver;
     }
 
+    public static void refreshPage() { driver.navigate().refresh();}
+
     @BeforeClass
     public void setUp() {
         driver = DriverFactory.getDriver(PropertyReader.getBrowser());
