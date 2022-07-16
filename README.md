@@ -19,12 +19,12 @@ ____________
 + [Client Side Delay](http://uitestingplayground.com/clientdelay)
 + [Dynamic Table](http://uitestingplayground.com/dynamictable)
 + [Sample App](http://uitestingplayground.com/sampleapp)
-
-## To Cover
 + [Hidden Layers](http://uitestingplayground.com/hiddenlayers)
 + [Click](http://uitestingplayground.com/click)
 + [Verify Text](http://uitestingplayground.com/verifytext)
 + [Mouse Over](http://uitestingplayground.com/mouseover)
+
+## To Cover
 + [Load Delays](http://uitestingplayground.com/loaddelay)
 + [Text Input](http://uitestingplayground.com/textinput)
 + [Progress Bar](http://uitestingplayground.com/progressbar)

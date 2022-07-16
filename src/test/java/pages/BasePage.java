@@ -38,4 +38,19 @@ public class BasePage {
 
     @FindBy(linkText = "Sample App")
     protected WebElement SampleApp;
+
+    @FindBy(linkText = "Hidden Layers")
+    protected WebElement HiddenLayers;
+
+    @FindBy(linkText = "Click")
+    protected WebElement Click;
+
+    @FindBy(linkText = "Verify Text")
+    protected WebElement VerifyText;
+
+    @FindBy(linkText = "Mouse Over")
+    protected WebElement MouseOver;
+
+    @FindBy(linkText = "Load Delay")
+    protected WebElement LoadDelay;
 }
