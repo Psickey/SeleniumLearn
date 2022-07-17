@@ -53,4 +53,19 @@ public class BasePage {
 
     @FindBy(linkText = "Load Delay")
     protected WebElement LoadDelay;
+
+    @FindBy(linkText = "Text Input")
+    protected WebElement TextInput;
+
+    @FindBy(linkText = "Progress Bar")
+    protected WebElement ProgressBar;
+
+    @FindBy(linkText = "Non-Breaking Space")
+    protected WebElement NonBreakingSpace;
+
+    @FindBy(linkText = "Overlapped Element")
+    protected WebElement OverlappedElement;
+
+    @FindBy(linkText = "Shadow DOM")
+    protected WebElement ShadowDom;
 }
